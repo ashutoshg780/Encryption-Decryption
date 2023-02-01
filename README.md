@@ -2,11 +2,11 @@
 
 Installation On Kali Linux
 
-sudo su
+$ sudo su
 
-Link: git clone https://github.com/ashutoshg780/Encryption-Decryption.git
+$ git clone https://github.com/ashutoshg780/Encryption-Decryption.git
 
-cd Encryption-Decryption
+$ cd Encryption-Decryption
 
 
 
